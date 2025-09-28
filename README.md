@@ -121,6 +121,6 @@ TransactionID,Amount,Location,Fraud,Predicted_Fraud
 
 This project is licensed under the MIT License.
 
-## Contact
+## Author
 
-Project Link: [https://github.com/yourusername/ml-blockchain-fraud-detection](https://github.com/yourusername/ml-blockchain-fraud-detection)
+Vedant Konde
