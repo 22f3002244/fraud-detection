@@ -28,7 +28,7 @@ Data Generation → ML Model Training → Fraud Prediction → Blockchain Storag
 ## Project Structure
 
 ```
-MLBC/
+fraud-detection/
 ├── generate_data.py               # Transaction data generator
 ├── ml_model.py                   # ML model training and prediction
 ├── blockchain_interact.py        # Blockchain deployment and interaction
